@@ -15,12 +15,9 @@ This script allows you to download YouTube videos in different formats and quali
 
 1. Clone this repository or download the `yt-downloader.py` file.
 
-2. Install the required `pytube` library using the following command:
+2. Install the required `pytube` library using the following command: ```pip install pytube```
 
-```pip install pytube```
-
-3. Run the script in your terminal or command prompt: 
-```python yt-downloader.py```
+3. Run the script in your terminal or command prompt: ```python yt-downloader.py```
 
 ## Note 📝
 Please make sure to comply with YouTube's terms of service and the copyrights of the videos you download.
